@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說稱揚諸佛功德經
+#+DATE: 2015-08-30 20:07:33.580842
+#+PROPERTY: JUAN 0
