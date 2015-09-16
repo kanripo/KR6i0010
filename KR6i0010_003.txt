@@ -1,19 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:07:33.362093
+#+DATE: 2015-08-30 20:07:35.054199
 #+TITLE: 佛說稱揚諸佛功德經
 #+PROPERTY: CBETA_ID T14n0434
 #+PROPERTY: ID KR6i0010
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 14, No. 434
 #+PROPERTY: VOL 14
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SHENG
 #+PROPERTY: LASTPB <pb:KR6i0010_T_000-0087a>¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0010_T_003-0099a> ¶¶¶
 #+PROPERTY: JUAN 3
 ¶
 ¶
-
- 《佛說稱揚諸佛功德經》卷下¶
+《佛說稱揚諸佛功德經》卷下¶
 ¶
 元魏天竺三藏吉迦夜譯¶
 
